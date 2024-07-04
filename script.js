@@ -15,5 +15,5 @@ window.onload = function() {
     popup.style.display = 'block';
     setTimeout(function() {
         popup.style.display = 'none';
-    }, 5000); // 5000 milliseconds = 5 seconds
+    }, 8000); // 7000 milliseconds = 8 seconds
 }
